@@ -11,9 +11,13 @@ A 'customer' side for main shopping purposes. No login required
 A 'Manager' side for updating and maintaining backend MySQL tables through passing queries. Password protected
 
 Customer has the choice of shopping from 2 sections(for now)- Grocery or stationery
+
 Shopping catalogue is a 'book-style' catalogue with 5 items per 'page' and can be cycled through to show all purchaseable items
+
 Cart system where all items selected will get placed in a cart for buying all at once at checkout
+
 Optional Receipt on checkout with all taxes calculated.
+
 Semi-credit system where you can pay atleast half of the total amount and rest is bought by credit.(paying back credit not implemented yet)
 
 Manager can manage grocery/stationery products and prices and can delete products(wip)
